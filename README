@@ -1,0 +1,38 @@
+    *  Introduction to Merb: Background, philosophy, pros and cons and future.
+    * Ruby for Merb: Quick overview of what you need to master to be a good Merb developer.
+    * Ruby for PHP/Java/.NET/Rails developers (Workshop).
+    * Plan your application: What to do before even generating your first app.
+    * Build you own Merb stack: Merb is extremely modular; learn about the different components.
+          o Choose a project type (very flat, flat, core, stack)
+          o Choose an ORM: ActiveRecord
+          o Choose an ORM: DataMapper
+          o Choose an ORM: Sequel
+          o Choose a JavaScript Framework: Prototype
+          o Choose a JavaScript Framework: jQuery
+          o Choose a JavaScript Framework: Mootools
+          o Choose a database: MySQL
+          o Choose a database: Postgres
+          o Choose a database: CouchDB
+          o Overview of the various plugins/gems available for your project
+    * TDD/BDD: Overview of best testing practices.
+    * Getting Started: Write a simple Merb application.
+    * Model/Database interaction: Relationships, validation, migration, best practices.
+    * Merb Views: From layouts to partials.
+    * Common recipes:
+          o Authentication: Offer a login protected access to your site.
+          o Web Services / API: Share your content with remote services.
+          o Caching: Improve your performance.
+          o Full text search: Make your content easily available.
+          o Tagging: Organize your content.
+          o Internationalization: Because the world doesn't only speak English.
+          o Exceptions: Be warned when something goes wrong with your app.
+          o Ajax: Dynamic JS the right way (UJS).
+    * Merb router in depth: The router is one of Merb's most powerful tools.
+    * Deployment: How to easily deploy your application and save money on hosting.
+    * Full stack testing: How to test your application in an efficient way.
+    * Extend Merb: The difference between Plugins and Slices
+    * Merb Slices: How to use one of the many Merb available slices.
+    * Merb Slice development: How to reuse code from project to project.
+    * Legacy code: How to port your application to Merb.
+    * Benchmark your app: See how your application reacts under load.
+    * Identify and solve bottlenecks: How to audit and fix your code.
