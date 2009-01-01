@@ -4,10 +4,10 @@
        -> what does agnosticism means?
     * Build you own Merb stack: Merb is extremely modular; learn about the different components.
           o Choose a project type (very flat, flat, core, stack)  (Yehuda)
-          o Choose an ORM: ActiveRecord                   (Matt)
+          o Choose an ORM: ActiveRecord                   (Matt  xpress)
           o Choose an ORM: DataMapper                     (Yehuda)
           o Choose an ORM: Sequel                         (Matt)
-          o Choose a JavaScript Framework: Prototype      (Matt)
+          o Choose a JavaScript Framework: Prototype      (Matt lowpro)
           o Choose a JavaScript Framework: jQuery         (Yehuda)
           o Choose a database: Postgres                   (Yehuda)
           o Choose a database: CouchDB                    (Matt)
