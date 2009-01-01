@@ -1,19 +1,16 @@
-    *  Introduction to Merb: Background, philosophy, pros and cons and future.
-    * Ruby for Merb: Quick overview of what you need to master to be a good Merb developer.
-    * Ruby for PHP/Java/.NET/Rails developers (Workshop).
+    * Introduction to Merb: Background, philosophy, pros and cons and future.
+    * Explain the Merb/Rails merge and how it will affect the training
     * Plan your application: What to do before even generating your first app.
+       -> what does agnosticism means?
     * Build you own Merb stack: Merb is extremely modular; learn about the different components.
-          o Choose a project type (very flat, flat, core, stack)
-          o Choose an ORM: ActiveRecord
-          o Choose an ORM: DataMapper
-          o Choose an ORM: Sequel
-          o Choose a JavaScript Framework: Prototype
-          o Choose a JavaScript Framework: jQuery
-          o Choose a JavaScript Framework: Mootools
-          o Choose a database: MySQL
-          o Choose a database: Postgres
-          o Choose a database: CouchDB
-          o Overview of the various plugins/gems available for your project
+          o Choose a project type (very flat, flat, core, stack)  (Yehuda)
+          o Choose an ORM: ActiveRecord                   (Matt)
+          o Choose an ORM: DataMapper                     (Yehuda)
+          o Choose an ORM: Sequel                         (Matt)
+          o Choose a JavaScript Framework: Prototype      (Matt)
+          o Choose a JavaScript Framework: jQuery         (Yehuda)
+          o Choose a database: Postgres                   (Yehuda)
+          o Choose a database: CouchDB                    (Matt)
     * TDD/BDD: Overview of best testing practices.
     * Getting Started: Write a simple Merb application.
     * Model/Database interaction: Relationships, validation, migration, best practices.
@@ -36,3 +33,9 @@
     * Legacy code: How to port your application to Merb.
     * Benchmark your app: See how your application reacts under load.
     * Identify and solve bottlenecks: How to audit and fix your code.
+    
+== optional
+
+* Ruby for Merb: Quick overview of what you need to master to be a good Merb developer.
+* Ruby for PHP/Java/.NET/Rails developers (Workshop).
+o Overview of the various plugins/gems available for your project
