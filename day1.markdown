@@ -34,6 +34,10 @@ before starting
     * relationships
     * fixtures/bootstrap
     * request specs
+    * router
+    * DM schema definition
+    * resources
+    * bundling
   * comments
       
       (exceptions, action args, resources, router)
