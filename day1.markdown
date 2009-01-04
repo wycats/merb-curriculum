@@ -27,11 +27,14 @@ before starting
 
 **StalkR**
 
-  - setup a blog (datamapper, action args)
-    - articles
-      - haml & erb (layout)
-        - html
-    - comments
+* setup a blog (datamapper, action args)
+  * articles
+    * haml & erb (layout)
+    * notice messages
+    * relationships
+    * fixtures/bootstrap
+    * request specs
+  * comments
       
       (exceptions, action args, resources, router)
       
